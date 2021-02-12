@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "WhyEditor",
+    "slug": "WhyEditor",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/images/WhyEditorIconNoBackground.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "description": "WhyEditor is a cross platform jounal app developed with simplicity in mind. Features include; A daily journal with rating, notes, and a checklist.",
+    "githubUrl": "https://github.com/aer35/WhyEditor",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1.0.1",
+      "infoPlist": {
+        "UIAppFonts": [
+          "AntDesign.ttf",
+          "Entypo.ttf",
+          "EvilIcons.ttf",
+          "Feather.ttf",
+          "FontAwesome.ttf",
+          "FontAwesome5_Brands.ttf",
+          "FontAwesome5_Regular.ttf",
+          "FontAwesome5_Solid.ttf",
+          "Foundation.ttf",
+          "Ionicons.ttf",
+          "MaterialIcons.ttf",
+          "MaterialCommunityIcons.ttf",
+          "SimpleLineIcons.ttf",
+          "Octicons.ttf",
+          "Zocial.ttf"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.Aer.WhyEditor",
+      "versionCode": 2
+    }
+  }
+}
