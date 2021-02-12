@@ -1,0 +1,1 @@
+WhyEditor is a cross platform journal app developed using React-Native and published via Expo
