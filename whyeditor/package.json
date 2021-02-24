@@ -12,6 +12,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@expo/ngrok": "^2.4.3",
     "@expo/samples": "~3.0.3",
     "@expo/vector-icons": "^12.0.0",
     "@react-navigation/web": "^1.0.0-alpha.9",
