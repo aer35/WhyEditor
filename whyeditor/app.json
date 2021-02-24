@@ -10,7 +10,7 @@
     "version": "1.0.1",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    "icon": "./assets/images/WhyEditorIconNoBackground.png",
+    "icon": "./assets/images/WhyEditorIcon.png",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
