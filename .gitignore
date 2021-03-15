@@ -11,7 +11,7 @@ node_modules
 */web-build/
 */web-report/
 *.code-workspace
-*.apk
+apk builds
 .gitignore
 node_modules/**/*
 .expo
