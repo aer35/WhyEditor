@@ -12,3 +12,19 @@ node_modules
 */web-report/
 *.code-workspace
 *.apk
+.gitignore
+node_modules/**/*
+.expo
+.expo/*
+/.expo
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
