@@ -1,4 +1,4 @@
-APK
+APK/*
 */node_modules
 node_modules
 */.expo/*
@@ -25,6 +25,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+package-lock.json
+package.json
 
 # macOS
 .DS_Store
