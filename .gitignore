@@ -1,3 +1,4 @@
+APK
 */node_modules
 node_modules
 */.expo/*
@@ -11,7 +12,6 @@ node_modules
 */web-build/
 */web-report/
 *.code-workspace
-apk builds
 .gitignore
 node_modules/**/*
 .expo
